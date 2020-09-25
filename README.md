@@ -1,6 +1,6 @@
 ## Zane Alumbaugh
 
-zanedma@gmail.com | (510)599-6558 | zanedma.heroku.com | Berkeley CA
+zanedma@gmail.com | (510)599-6558 | zanedma.herokuapp.com | Berkeley CA
 
 ### Skills
 
@@ -50,6 +50,8 @@ UCSC Dean's Honors (Winter 2018, Winter 2020), City of Berkeley Mayor's Award fo
 
 ### Coursework
 
-Introduction to Programming: Java, Intermediate Programming: Java, Intro to Data Structures, Computer Systems and Assembly Language, Algorithms and Abstract Data Types, Comparative Programming Languages, Advanced Programming, Machine Learning, Principles of Computer Systems Design, Distributed Systems, Computational Models
+Introduction to Programming: Java, Intermediate Programming: Java, Intro to Data Structures, Computer Systems and Assembly Language, Algorithms and Abstract Data Types, Comparative Programming Languages, Advanced Programming, Machine Learning, Principles of Computer Systems Design, Distributed Systems (Fall 2020), Computational Models (Fall 2020), Analysis of Algorithms (Tentatively Winter 2021), Technical Writing (Tentatively Winter 2021)
 
 __References available upon request__
+
+__Check out my website to see personal projects and updates: zanedma.herokuapp.com__
