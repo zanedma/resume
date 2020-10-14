@@ -46,7 +46,7 @@ __Bay Area Geophysical Society (BAGS), Berkeley CA__ - _Webmaster, Website Creat
 
 ### Awards
 
-UCSC Dean's Honors (Winter 2018, Winter 2020, Spring 2020), City of Berkeley Mayor's Award for Excellence in Sports (2016), ROP Certificate of Proficiency in the Art of Video Production (2016), City of Berkeley Mayor's Award for Extraordinary Effor (2015)
+UCSC Dean's Honors (Spring 2020, Winter 2020, Winter 2018), City of Berkeley Mayor's Award for Excellence in Sports (2016), ROP Certificate of Proficiency in the Art of Video Production (2016), City of Berkeley Mayor's Award for Extraordinary Effor (2015)
 
 ### Coursework
 
