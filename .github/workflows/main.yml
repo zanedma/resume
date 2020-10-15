@@ -1,6 +1,6 @@
 name: Docs to PDF
 on:
-  push:
+  workflow_dispatch:
     branches: 
       - master
     paths:
