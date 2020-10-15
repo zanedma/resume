@@ -1,23 +1,21 @@
-name: Docs to PDF
 on:
   workflow_dispatch:
-    branches: 
-      - master
     paths:
-      - './README.md'
-    
+      - '.'
+
+name: CreatePDFs
+
 jobs:
-  converttopdf:
-    name: Build PDF
+  makepdfs:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: baileyjm02/markdown-to-pdf@v2
-        with:
-          input_dir: .
-          output_dir: .
-          build_html: false
-      - uses: actions/upload-artifact@v2
-        with:
-          name: .
-          path: .
+    - uses: actions/checkout@v1
+    - uses: mkrakowitzer/actions-makepdfs@master
+      if: github.ref == 'refs/heads/master'
+      with:
+        markdown_dir: .
+        output_dir: .
+    - uses: actions/upload-artifact@v1
+      with:
+        name: platform-architecture-docs
+        path: .
