@@ -2,6 +2,10 @@
 
 zanedma@gmail.com | (510)599-6558 | zanedma.herokuapp.com | Berkeley CA
 
+### Summary
+
+Enthusiastic and dedicated 4th year computer science student seaking a roll in which I gan grow and further my career by learning from experienced coworkers.
+
 ### Skills
 
 Python, C/C++, Java, HTML, CSS, JavaScript, Django, Scala, Prolog, Haskell, Unix, Git
