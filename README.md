@@ -22,11 +22,11 @@ __Berkeley High School - Berkeley CA__
 
 ### Experience
 
-#### Summer 2020, Summer 2019
+#### Summer 2020 - Present, Summer 2019
 
 __University of Washington, Seattle WA__ - _Student Research Assistant/Python Programmer, Funded by the National Science Foundation via a Research Experience for Undergraduates grant_
 
-__Summer 2020__
+__Summer 2020 - Present__
 
 * Implemented action policies for Reinforcement Learning Linear Quadratic Systems, and extend their application to a multiplayer environment
 * Update gradient-based policy gradient algorithm to multiplayer environment using OpenAI's Vanilla Policy Gradient and PyTorch
