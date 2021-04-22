@@ -74,7 +74,7 @@ Introduction to Programming: Java, Intermediate Programming: Java, Intro to Data
 
 ### Links
 * [Portfolio Site](https://zanedma.herokuapp.com)
-* [LinkedIn](https://linkedin.com/zanedma/)
+* [LinkedIn](https://linkedin.com/in/zanedma/)
 * [Github](https://github.com/zanedma/)
 
 __References available upon request__
