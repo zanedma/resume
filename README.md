@@ -6,6 +6,11 @@ zanedma@gmail.com | (510)599-6558 | zanedma.herokuapp.com | Berkeley CA
 
 Enthusiastic and dedicated 4th year computer science student seaking a roll in which I gan grow and further my career by learning from experienced coworkers. Graduating June 2021.
 
+### Links
+* [Portfolio Site](https://zanedma.herokuapp.com)
+* [LinkedIn](https://linkedin.com/in/zanedma/)
+* [Github](https://github.com/zanedma/)
+
 ### Skills
 __Languages__
 
@@ -44,9 +49,12 @@ __University of Washington, Seattle WA__ - _Student Research Assistant/Python Pr
 
 __Summer 2020 - Present__
 
-*	Implement action policies for Reinforcement Learning Linear Quadratic Systems and extend their application to a multiplayer environment.
-*	Update policy gradient algorithm to multiplayer environment using OpenAI’s existing Vanilla Policy Gradient and PyTorch.
-*	Co-author in: “Liyuan Zheng, Tanner Fiez, Zane Alumbaugh, Benjamin Chasnov and Lillian Ratliff (2020), Stackelberg Actor-Critic: A Game-Theoretic Perspective,” and “Stackelberg Actor-Critic: Game-Theoretic Reinforcement Learning Algorithms.”
+*	Extended existing policy gradient and soft-actor critic reinforcement learning algorithms to multiplayer environments building on [OpenAI's Spinningup Deep Reinforcement Learning](https://github.com/openai/spinningup) package and PyTorch.
+*	Developed and implemented multiplayer reinforcement learning algorithms using PyTorch based on game-theoretic models of player interaction including linear quadratic dynamic games. 
+*	Co-Author in: Liyuan Zheng, Tanner Fiez, Zane Alumbaugh, Benjamin Chasnov, Lillian J. Ratliff. Stackelberg Actor-Critic: A Game-Theoretic Perspective, Association for the Advancement of Artificial Intelligence Reinforcement Learning and Games (AAAI RLG) Workshop, 2021. [Workshop link](http://aaai-rlg.mlanctot.info/sched.html).
+•	Co-author in: Liyuan Zheng, Tanner Fiez, Zane Alumbaugh, Benjamin Chasnov, Lillian J. Ratliff. “Stackelberg Actor-Critic: Game-Theoretic Reinforcement Learning Algorithms.” under review at Uncertainty in Artificial Intelligence (UAI), 2021.
+•	Supervisor: [Lillian Ratliff](https://faculty.washington.edu/ratliffl/), Assistant Professor, UW. Mentor: [Ben Chasnov](http://students.washington.edu/bchasnov/), PhD Student, UW.
+
 
 #### July 2020
 
@@ -71,11 +79,6 @@ __Bay Area Geophysical Society (BAGS), Berkeley CA__ - _Webmaster, Website Creat
 ### Coursework
 
 Introduction to Programming: Java, Intermediate Programming: Java, Intro to Data Structures, Computer Systems and Assembly Language, Algorithms and Abstract Data Types, Comparative Programming Languages, Advanced Programming, Machine Learning, Principles of Computer Systems Design, Distributed Systems, Computational Models, Analysis of Algorithms Technical Writing, Introduction to Computer Networks, Music and AI
-
-### Links
-* [Portfolio Site](https://zanedma.herokuapp.com)
-* [LinkedIn](https://linkedin.com/in/zanedma/)
-* [Github](https://github.com/zanedma/)
 
 __References available upon request__
 
