@@ -81,5 +81,3 @@ __Bay Area Geophysical Society (BAGS), Berkeley CA__ - _Webmaster, Website Creat
 Introduction to Programming: Java, Intermediate Programming: Java, Intro to Data Structures, Computer Systems and Assembly Language, Algorithms and Abstract Data Types, Comparative Programming Languages, Advanced Programming, Machine Learning, Principles of Computer Systems Design, Distributed Systems, Computational Models, Analysis of Algorithms Technical Writing, Introduction to Computer Networks, Music and AI
 
 __References available upon request__
-
-__Check out my website to see personal projects and updates: zanedma.herokuapp.com__
