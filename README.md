@@ -4,7 +4,7 @@ zanedma@gmail.com | (510)599-6558 | zanedma.herokuapp.com | Berkeley CA
 
 ### Summary
 
-Enthusiastic and dedicated 4th year computer science student seaking a roll in which I gan grow and further my career by learning from experienced coworkers. Graduating June 2021.
+I have a BS in Computer Science from the University of California - Santa Cruz. My major areas of interest include Machine Learning and AI, Distributed Systems, and Automation. I am currently seeking a full time software engineering position.
 
 ### Links
 * [Portfolio Site](https://zanedma.herokuapp.com)
@@ -19,7 +19,7 @@ __Languages__
 
 __APIs/Libraries/Frameworks__
 
-* PyTorch, Django, Bootstrap, Numpy, Pandas, SciPy, Matplotlib
+* PyTorch, NumPy, Pandas, SciPy, matplotlib, BeautifulSoup, Django, Bootstrap, Flask
 
 __Software__
 
@@ -27,12 +27,12 @@ __Software__
 
 ### Education
 
-#### September 2017 - Present
+#### September 2017 - June 2021
 
 __University of California Santa Cruz - Santa Cruz CA__
 
-* Computer Science B.S. - Expected June 2021
-* Achievements: UCSC Dean's Honors List - Spring 2020, Winter 2020, Winter 2018
+* B.S. in Computer Science
+* Achievements: UCSC Dean's Honors List - Winter 2021, Spring 2020, Winter 2020, Winter 2018
 
 #### September 2013 - June 2017
 
@@ -75,6 +75,27 @@ __Bay Area Geophysical Society (BAGS), Berkeley CA__ - _Webmaster, Website Creat
 
 * Created current website from scratch (February 2019) - Employer requested a simple static implementation. Used HTML, CSS, and minimal JavaScript.
 * Kept pages up to date and maintained health of the website (July 2015 - June 2017)
+
+### Projects
+
+#### Causally Consistent Distributed Key/Value Store
+* Designed and implemented a distributed Key/Value Store (KVS) using Golang that: Was fault-tolerant and partition-tolerant using data replication.
+* Key/Value pairs were causally consistent on all nodes.
+* _I cannot make this repo public due to UC Santa Cruz's Academic Integrity policy. Please contact me to request access if interested._
+
+#### Movie Review Classifier
+* Implemented a movie review sentiment classifier that is 93% accurate using a Bidirectional Encoder Representations from Transformers (BERT) neural network.
+* [Repo](https://github.com/zanedma/BERT-Classifier)
+
+#### Newegg Stock Checker
+* Designed and implemented a web scraper for Newegg that notifies the user via email if specified product(s) are in stock.
+* Implemented using Python, Google's Gmail API, and BeautifulSoup 4
+* [Repo](https://github.com/zanedma/Newegg-scraper)
+
+#### Portfolio Site
+* Created my personal portfolio website using Django, AWS, and hosted on Heroku.
+* [Site Link](https://zanedma.herokuapp.com/)
+* [Repo](https://github.com/zanedma/portfolio-site)
 
 ### Coursework
 
